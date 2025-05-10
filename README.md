@@ -12,6 +12,7 @@ This repository is organized into the following sections:
 
 - [Requirements Specification](requirements.md) - Detailed technical and functional requirements
 - [Use Case Diagram](use-case-diagram/README.md) - User interaction diagrams
+- [User Stories](user-stories/README.md) - User stories
 - [Data Flow Diagram](data-flow-diagram/README.md) - System data flow visualization
 - [Features and Functionalities](features-and-functionalities/README.md) - Core system capabilities
 - [Flowcharts](flowcharts/README.md) - Key process visualizations

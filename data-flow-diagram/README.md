@@ -6,7 +6,7 @@ This directory contains the Data Flow Diagram (DFD) for the Airbnb Clone project
 
 The Data Flow Diagram below maps the flow of information between external entities, processes, and data stores within the system. This diagram helps visualize how data is processed, stored, and transmitted throughout the application.
 
-![Data Flow Diagram](./Dataflow.drawio.png)
+![Data Flow Diagram](./data-flow.png)
 
 ## Components
 
